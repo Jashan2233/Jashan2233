@@ -11,4 +11,9 @@
 - 📫 How to reach me: @Jashan2233
 - ⚡ Fun fact: I love Flask!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jashan2233&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+My Github Stats:
+
+[![Jashan's github stats](https://github-readme-stats.vercel.app/api?username=Jashan2233&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Jashan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashan2233&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
